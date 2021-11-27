@@ -1,4 +1,4 @@
-# Repeticao_Orienta-o_Objeto
+# Repeticao_Orienta-o_Objeto_C++
 Orientação de Objeto em repetição do valor no vetor;
 Ter Windows instalado com o software DEV++; 
 Rodar o script em C++;
